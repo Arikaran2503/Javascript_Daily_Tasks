@@ -1,4 +1,4 @@
-# Palrinom
+# Palindrome
 
 A simple HTML and JavaScript program that reverses a string and displays the result on the webpage.
 
